@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="PKUYouthTest" />
+        <module name="PKUYouth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PKUYouthTest" target="1.5" />
+      <module name="PKUYouth" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
